@@ -8,6 +8,7 @@
     padding: 20px 8vw;
     padding-top: 80px;
     margin-top: 100px;
+   
 }
 .footer-content{
     width: 100%;
@@ -26,7 +27,7 @@
     margin-bottom:10px;
     cursor: pointer;
 }
-.footer-content-right h2, .footer-content-centervh2{
+.footer-content-right h2, .footer-content-center h2{
     color: white;
 }
 .footer-social-icons img{
@@ -38,4 +39,5 @@
     height: 2px;
     margin: 20px 0;
     background-color: grey;
+    border: none;
 }
